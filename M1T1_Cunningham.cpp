@@ -1,6 +1,6 @@
 /*
-M!T1 - Hello World!
-Our first program exits to make sure we can talk to the user.
+M1T1 - Hello World!
+Our first program exists to make sure we can talk to the user.
 We will use cout to print to the window.
 
 INPUT: None
