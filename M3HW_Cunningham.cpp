@@ -1,7 +1,7 @@
 // CSC 134
 // M3HW1 - Gold
-// Name
-// Date
+// Hunter Cunningham
+// 10/18/2026
 
 #include <iostream>
 #include <string>
