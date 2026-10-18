@@ -152,8 +152,8 @@ int main()
             // ------------------------------------------------------------
             cout << "Question 4" << endl;
 
-            int firstNumber = rand() % 10;     // 0 through 9
-            int secondNumber = rand() % 10;    // 0 through 9
+            int firstNumber = rand() % 100;     // 0 through 99
+            int secondNumber = rand() % 100;    // 0 through 99
             int correctAnswer = firstNumber + secondNumber;
             int userAnswer;
 
