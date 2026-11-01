@@ -11,7 +11,6 @@ int main()
 {
     int number;
 
-    // Loop 1: input validation - keeps asking until the number is 1 to 12
     cout << "Enter a number from 1 to 12? ";
     cin >> number;
 
@@ -21,7 +20,6 @@ int main()
         cin >> number;
     }
 
-    // Loop 2: print the times table
     int counter = 1;
 
     while (counter <= 12)
