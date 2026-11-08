@@ -60,5 +60,3 @@ Ask one question at a time. Wait for my answer. Then tell me if I am right in
 one sentence.
 
 What I did: I answered the 3 short questions it gave me which were, (Question 1 of 3: In your m5t2.cpp, what does square() return when main() calls square(4), and what type is that value?) (Question 2 of 3: Why is printAnswerLine() declared void instead of int?) (Question 3 of 3: In your file, result is declared inside the for loop in main(). Could printAnswerLine() use the name result directly, and why or why not?) I got 2 of them right and one of them partly right the two i got right were Questions 1 and 3.
-
-## Prompt 4 - Results
